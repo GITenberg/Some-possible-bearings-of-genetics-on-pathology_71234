@@ -1,0 +1,36 @@
+_repo: Some-possible-bearings-of-genetics-on-pathology_71234
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Morgan, Thomas Hunt
+    alias: Morgan, T. H. (Thomas Hunt)
+    birthdate: 1866
+    deathdate: 1945
+    gutenberg_agent_id: '34763'
+    url: http://www.gutenberg.org/2009/agents/34763
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Hunt_Morgan
+description: ''
+gutenberg_issued: '2023-07-20'
+identifiers:
+  gutenberg: '71234'
+language: en
+pgterms:marc904: http://www.archive.org/details/somepossiblebear00morguoft
+pgterms:marc905: 20080307124752morgan
+pgterms:marc906: '1922'
+pgterms:marc907: US
+production_note: Bryan Ness and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/Canadian
+  Libraries)
+publication_note: '  $aUnited States :$bPress of the New Era Print. Co, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Heredity'
+- !lcsh 'Diseases -- Causes and theories of causation'
+- !lcsh 'Pathology'
+- !lcsh 'Genetics'
+- !lcc 'QH'
+- GITenberg
+title: Some possible bearings of genetics on pathology
+url: http://www.gutenberg.org/ebooks/71234
